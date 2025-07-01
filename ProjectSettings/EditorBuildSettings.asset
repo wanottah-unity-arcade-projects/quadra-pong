@@ -5,7 +5,11 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/_Scenes/Quadra Pong [Atari 1974] 2019.02.28.unity
+    guid: 7036ec5043ae95a488937f7c6b49c484
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

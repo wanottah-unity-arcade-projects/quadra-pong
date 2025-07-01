@@ -53,7 +53,7 @@ public class Player4Controller : MonoBehaviour
 
     private void FixedUpdate()
     {
-        paddleRigidbody.velocity = paddleDirection * paddleSpeed;
+        paddleRigidbody.linearVelocity = paddleDirection * paddleSpeed;
     }
 
 
